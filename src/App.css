@@ -1,0 +1,37 @@
+*{
+  background-image: url("https://st2.depositphotos.com/3405425/6612/v/950/depositphotos_66128133-stock-illustration-four-seasons-banners-with-abstract.jpg");
+background-size: 1150px;
+background-attachment: fixed;
+}
+h3{
+  color: rgb(121, 11, 11);
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px 5px red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px
+}
+.form{
+  margin: 100px; 
+}
+.input{
+  padding: 10px;
+  margin: 20px;
+  border-radius: 50px;
+  border-color: chocolate;
+  color: rgb(9, 9, 41);
+}
+.weather{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  text-shadow: 2px 2px; 
+}
+span{
+  color: rgb(182, 9, 9);
+}
+.btn{
+  border-radius: 10px;
+  padding: 40px;
+  color: rgb(2, 82, 2);
+}
